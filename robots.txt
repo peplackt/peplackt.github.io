@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peplackt.github.io/sitemap.html.gz
+Sitemap: https://peplackt.github.io/app/sitemap.html.gz
+Sitemap: https://peplackt.github.io/assets/sitemap.html.gz
+Sitemap: https://peplackt.github.io/css/sitemap.html.gz
+Sitemap: https://peplackt.github.io/includes/sitemap.html.gz
+Sitemap: https://peplackt.github.io/item/sitemap.html.gz
+Sitemap: https://peplackt.github.io/src/sitemap.html.gz
